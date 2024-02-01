@@ -1,2 +1,3 @@
 # code
-this is my first repository.
+This is my first git repository.
+author- DILPREET SINGH
